@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: MLProjects
+Version: 0.0.1
+Author: Rakeshhh
+Author-email: swainrakesh35@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
